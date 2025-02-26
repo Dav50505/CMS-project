@@ -21,44 +21,42 @@ const projects = [
   },
   {
     title: 'colors',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://color-gen-1.netlify.app/',
     image: '/src/assets/colors.png',
   },
   {
     title: 'Cute Pictures',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://funny-cascaron-da6035.netlify.app/',
     image: '/src/assets/cute-images.png',
   },
   {
     title: 'Drinks',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://mixmaster-vodka.netlify.app/',
     image: '/src/assets/Drinks.png',
   },
   {
     title: 'Dropdown',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://strapi-dropdown-pro.netlify.app/',
     image: '/src/assets/DropDown.png',
   },
   {
     title: 'Menu',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://menu-project-1.netlify.app/',
     image: '/src/assets/Menu.png',
   },
   {
     title: 'Navbar',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://navbar-pro-1.netlify.app/',
     image: '/src/assets/navbar.png',
   },
   {
     title: 'Paragraph Generator',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://paragraph-gen.netlify.app/',
     image: '/src/assets/Paragraph-gen.png',
   },
   {
     title: 'Sidebar-Modal',
-    url: 'https://questions-project-1.netlify.app/',
+    url: 'https://sidebar-modal-1.netlify.app/',
     image: '/src/assets/Sidebar-modal.png',
   },
 ];
-
-export default projects;
