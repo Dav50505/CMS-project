@@ -360,9 +360,27 @@ PROJECTS
   color: var(--grey-700);
 }
 
+.return {
+  color: var(--grey-700);
+  text-decoration: underline;
+  position: absolute;
+  top: 10px;
+  left: 60px;
+  font-size: 1.25rem;
+}
+
+.arrow {
+  color: var(--grey-700);
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-size: 1.25rem;
+}
+
 @media (min-width: 768px) {
   .projects-center {
     grid-template-columns: 1fr 1fr;
+    align-items: center;
   }
 }
 @media (min-width: 992px) {
