@@ -46,9 +46,6 @@ const Projects = () => {
                   <a href={url} target='_blank' rel='noreferrer' className="btn btn-sm">
                     View Project
                   </a>
-                  <a href="#" className="btn btn-sm btn-hipster">
-                    <FaGithub /> Code
-                  </a>
                 </div>
               </div>
             </div>

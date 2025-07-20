@@ -18,11 +18,8 @@ const Hero = () => {
           </p>
           
           <div className="hero-actions">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="btn btn-hipster">
+            <a href="https://github.com/Dav50505" target="_blank" rel="noopener noreferrer" className="btn btn-hipster">
               <FaGithub /> View on GitHub
-            </a>
-            <a href="mailto:contact@example.com" className="btn btn-hipster">
-              <FaEnvelope /> Get in Touch
             </a>
           </div>
         </div>
