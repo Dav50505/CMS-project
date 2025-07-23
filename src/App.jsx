@@ -1,6 +1,7 @@
 import Hero from "./Hero";
 import Projects from "./Projects";
 import Particles from "react-tsparticles";
+import './index.css';
 
 const App = () => {
   return (
@@ -27,7 +28,7 @@ const App = () => {
         }}
         style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", zIndex: 0 }}
       />
-      <div style={{ position: "relative", zIndex: 1 }}>
+      <div className="app-container">
         <Hero />
         <Projects />
       </div>
